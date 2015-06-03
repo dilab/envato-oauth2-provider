@@ -21,6 +21,7 @@
     "minimum-stability": "dev",
     "autoload": {
       "psr-4": {
+         Dilab\\OAuth2\\Client\
         "Dilab\\OAuth2\\Client\\": "src/"
       }
     },
