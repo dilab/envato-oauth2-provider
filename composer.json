@@ -4,7 +4,7 @@
     "type": "oauth2-provider",
     "require": {
         "php": ">=5.4.0",
-        "league/oauth2-client": "0.11"
+        "league/oauth2-client": ">=0.10.0"
     },
     "require-dev": {
       "phpunit/phpunit": "~4.0",
